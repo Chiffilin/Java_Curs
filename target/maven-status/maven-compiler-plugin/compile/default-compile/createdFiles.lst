@@ -1,0 +1,16 @@
+kurs\classes\MemoryManager.class
+kurs\interfaces\ClockListener.class
+kurs\classes\Controller.class
+kurs\classes\VirtualMachine.class
+kurs\classes\Status.class
+kurs\classes\CPU.class
+kurs\classes\MemoryBlock.class
+kurs\Main.class
+kurs\classes\Configuration.class
+kurs\VirtualMachineLauncher.class
+kurs\MainLauncher.class
+kurs\classes\Core.class
+kurs\classes\ClockGenerator.class
+kurs\classes\Utils.class
+kurs\classes\CpuQueue.class
+kurs\classes\Process.class
